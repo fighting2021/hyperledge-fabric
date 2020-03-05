@@ -15,7 +15,9 @@ npm install --save grpc
 ```
 
 第三步：从github.com上下载[示例文件](https://github.com/joe1981/hyperledge-fabric)，并拷贝到fabric-ca-test目录中。
-![1583401263851](C:\Users\zhongliwen\AppData\Roaming\Typora\typora-user-images\1583401263851.png)
+
+![1583401442804](C:\Users\zhongliwen\AppData\Roaming\Typora\typora-user-images\1583401442804.png)
+
 enrollAdmin.js：注册组织管理员；
 enrollUser.js：注册组织的普通会员，注册前必须完成管理员账号的注册；
 query.js：查询数据（关闭了tls功能）；
